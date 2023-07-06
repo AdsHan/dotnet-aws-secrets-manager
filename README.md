@@ -8,4 +8,4 @@ Demonstração de como podemos trabalhar com chaves secretas utilizando o AWS Se
 - Criar os segredos 'API_Production_ConnectionStrings__DefaultConnection' e 'API_Production_TokenConfigurations__SecretJWTKey' 
 	
 # Sobre
-Este projeto foi desenvolvido por Anderson Hansen sob [MIT license](LICENSE).
+Este projeto foi desenvolvido por Anderson Hansen.
